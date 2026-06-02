@@ -19,9 +19,9 @@ This includes the math basics for deep learning from the [Deep Learning](https:/
 Chapter: https://www.deeplearningbook.org/contents/part_basics.html
 
 ### The Math Behind Artificial Intelligence
-*by freeCodeCamp*
+*by Tiago MOnteiro*
 
-A beginner-friendly book walking through the core math ideas behind AI. I includes linear algebra, calculus, and probability, with intuitive explanations.
+A beginner-friendly book walking through the core math ideas behind AI published for free in freeCodeCamp. It includes linear algebra, calculus, and probability, with intuitive explanations.
 
 Book: https://www.freecodecamp.org/news/the-math-behind-artificial-intelligence-book/
 
